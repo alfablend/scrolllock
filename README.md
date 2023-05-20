@@ -13,3 +13,7 @@ How to install it:
 
 How to use it:
 After running this script (instruction is above) press Scroll Lock key on your keyboard (you can press it on Windows On-Screen keyboard if it's not presented on your physical keyboard). Now you can scroll texts by Up and Down arrow keys, and the pointer (cursor) will not moving!
+
+Full feature description on habr.com (in Russian): https://habr.com/ru/articles/733856/
+
+Based on the code of aborouhin user from habr.com (https://habr.com/ru/users/aborouhin/)
